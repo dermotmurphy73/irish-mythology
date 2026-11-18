@@ -1,0 +1,16 @@
+{
+  "id": "./",
+  "name": "Irish Mythology – Canon Sheehan Primary School",
+  "short_name": "Irish Mythology",
+  "description": "Explore Irish mythology through stories, characters and games.",
+  "lang": "en-IE",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f4f1e8",
+  "theme_color": "#15552f",
+  "icons": [
+    {"src": "./assets/app-icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable"}
+  ]
+}
