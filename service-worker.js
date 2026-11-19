@@ -1,4 +1,4 @@
-const CACHE_NAME = 'irish-mythology-v10-learning-supports';
+const CACHE_NAME = 'irish-mythology-v11-performance';
 const CORE_ASSETS = [
   './',
   './index.html',
